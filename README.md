@@ -11,7 +11,7 @@ OrionSeeker/OrionSeeker is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OrionSeeker&show_icons=true&include_all_commits=true&theme=monokai" alt="OrionSeeker's GitHub stats" /><br />
+  <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=OrionSeeker&show_icons=true&include_all_commits=true&theme=monokai" alt="OrionSeeker's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OrionSeeker&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrionSeeker&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
